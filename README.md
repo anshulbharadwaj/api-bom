@@ -1,2 +1,2 @@
 # api-parent
-parent repository for managing dependencies
+parent pom for managing dependencies
